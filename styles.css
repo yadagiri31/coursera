@@ -1,0 +1,64 @@
+body{
+    background-color: grey;
+    color: black;
+   
+}
+
+/* TITLE SECTION */
+
+.titlesection{
+    background-color: grey;
+
+}
+.font-icons{
+    color:orange
+    ;
+}
+
+/* navbar */
+.navbar{
+    padding: 1rem 0 4.5rem;
+}
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+h2{
+    font-weight: bold;
+}
+
+p{
+    width: 500px;
+}
+.profileimg{
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    border-radius: 200px;
+}
+.circles{
+    text-align: center;
+    
+}
+.circle1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:yellow;
+   margin: 20px;
+}
+.circle2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 20px;
+}
+.circle3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin: 20px;
+}
